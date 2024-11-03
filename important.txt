@@ -1,0 +1,8 @@
+The following repository is a part of my internship from Codespaze 
+
+
+-main.ipynb : code
+-README.md : report 
+
+
+Sri Lakshmi Yannam
